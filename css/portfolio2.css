@@ -1,0 +1,100 @@
+body {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background: #f7f9fc;
+    padding: 80px 120px 80px 120px;
+}
+
+.main-profile {
+    width: 100%;
+    background: white;
+    border-radius: 10px;
+}
+
+.location {
+    color: #70B9F7;
+}
+
+.main-button {
+    background: #70B9F7;
+    border: none;
+    width: 120px;
+    margin: 0;
+    padding: 0;
+    height: 40px;
+    border-radius: 3px;
+}
+
+.nav-custom {
+    width: 90px;
+    padding: 10px;
+    border-bottom: 2px solid #70B9F7;
+}
+
+.custom-link {
+    color: #70B9F7;
+    text-decoration-line: none;
+    font-size: 18px;
+}
+
+.main-l {
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+}
+
+.link-fs {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.icon-fs {
+    font-size: 70px;
+    margin-top: 10px;
+    color: #70B9F7;
+}
+
+.custom-btn {
+    width: 110px;
+}
+
+.main-r-title h6 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.fs-s {
+    font-size: 12px;
+}
+
+.main-m {
+    background: white;
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 800px;
+    border-radius: 10px;
+}
+
+.main-r {
+    border: none;
+    border-radius: 10px;
+}
+
+.main-m-title {
+    font-size: 23px;
+    font-weight: 600;
+    margin-left: 8px;
+}
+
+.custom-badge {
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    margin: 0;
+    color: black;
+    background-color: white;
+    border: 1px solid grey;
+    margin-right: 7px;
+}

@@ -1,0 +1,138 @@
+.main {
+    width: 70%;
+    height: 300px;
+    padding-top: 30px;
+    float: left;
+    margin-bottom: 50px;
+    padding-top: 0px;
+}
+
+.header {
+    height: 20%;
+    display: flex;
+    align-items: center;
+}
+
+.img {
+    width: 30%;
+    height: 300px;
+    float: left;
+}
+
+.img-edit {
+    margin: 30px;
+    margin-top: 8px;
+}
+
+.example {
+    width: 100%;
+    height: 100%;
+}
+
+.profile-img {
+    float: left;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.state {
+    float: left;
+    padding-left: 10px;
+}
+
+.lion-png {
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding-left: 10px;
+}
+
+.title {
+    height: 20%;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.p {
+    height: 25%;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-right: 15px;
+    color: grey;
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    height: 10%;
+}
+
+.share-icon {
+    width: 35px;
+    height: 35px;
+    float: right;
+    padding-right: 20px;
+    padding-top: 50px;
+    filter: opacity(0.2) drop-shadow(0 0 0 #808080);
+}
+
+.name {
+    font-size: 16px;
+    font-weight: 540;
+}
+
+.time {
+    font-size: 13px;
+    color: grey;
+}
+
+
+.div {
+    height: 300px;
+    width: 1100px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 18px;
+    border-bottom: 1px solid #F4F4F5;
+}
+
+.navbar-main {
+    width: 1100px;
+    background: #f1f3f5;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.navbar {
+    text-align: center;
+    padding-left: 0px;
+    margin: 0px;
+}
+
+.navbar li {
+    display: inline-block;
+    width: 60px;
+    text-align: center;
+    background: #ced4da;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.navbar a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
